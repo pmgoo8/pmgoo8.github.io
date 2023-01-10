@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshop=self.webpackChunkshop||[]).push([[955],{6955:function(e,n,u){u.r(n);var s=u(9439),r=u(2791),t=u(184),a=new Array(1e4).fill(0);n.default=function(){var e=(0,r.useState)(""),n=(0,s.Z)(e,2),u=n[0],i=n[1],c=(0,r.useTransition)(),f=(0,s.Z)(c,2),l=f[0],o=f[1],p=(0,r.useDeferredValue)(u);return(0,t.jsxs)("div",{className:"App",children:[(0,t.jsx)("input",{onChange:function(e){o((function(){i(e.target.value)}))}}),l?"\ub85c\ub529\uc911":a.map((function(){return(0,t.jsx)("div",{children:p})}))]})}}}]);
+//# sourceMappingURL=955.a90c6a14.chunk.js.map
